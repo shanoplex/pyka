@@ -1,2 +1,2 @@
 # pyka
-psutil to kafka
+psutil -> kafka
